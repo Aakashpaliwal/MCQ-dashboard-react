@@ -1,0 +1,26 @@
+.custom-mobile-content {
+    background: #fff;
+    padding: 5%;
+    margin-top: 20px;
+    border: solid thin #e1e1e1;
+}
+.custom-mobile-number-field {
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    height: 60px;
+    border-bottom-width: 2px;
+    border-bottom-color: #eaeaea;
+    font-size: 16px;
+}
+
+.custom-mobile-number-field:focus {
+    border-bottom-color: blue;
+    transition: all ease-in 0.5s;
+    border-top-color: #fff;
+    box-shadow: none;
+}
+.custom-header {
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}

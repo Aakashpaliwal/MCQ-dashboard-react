@@ -1,0 +1,139 @@
+.upper-custom-card {
+    background: #fff!important;
+}
+.custom-content-here {
+    background: #fff!important;
+}
+.custom-parent-padd {
+    padding: 0px!important;
+}
+.custom-content-section {
+    background: #fff;
+    /* height: 500px; */
+}
+.custom-wallet {
+    border-right: solid thin #e1e1e1;
+   
+}
+.custom-upper-sec {
+    padding: 20px;
+}
+.custom-form-here {
+    padding-top: 10px;
+}
+/* ::placeholder {
+    transform: translate3d(0,6px,0) scale(0.75);
+} */
+.custom-amount-input {
+    border: none;
+    border-bottom: solid thin #e1e1e1;
+    border-radius: 0;
+    
+}
+.custom-amount-input:focus {
+border-bottom: solid thin #03a9f3;
+transition: all ease 0.5s;
+/* transform: translate3d(0,6px,0) scale(0.75); */
+}
+.custom-money-btn {
+    color: #fff!important;
+    background: #03a9f3!important;
+    border-color: #03a9f3;
+}
+/****************vertical css****************/
+.vertical-content {
+    background: #fff;
+    /* height: 800px; */
+    margin: 25px 0;
+}
+.sidebar-tabs .nav a {
+    background: none;
+    border:none;
+    border-bottom: solid thin #e1e1e1;
+    color: #828282;
+    border-radius: 0;
+}
+.sidebar-tabs .nav .nav-link {
+    background: none;
+    border:none;
+    border-bottom: solid thin #e1e1e1;
+    color: #828282;
+}
+.sidebar-tabs .nav .active {
+    background: none;
+    border-bottom: solid thin #03a9f3;
+    color: #00B9F5;
+    transition: all ease 0.5s;
+    font-weight: bold;
+    /* transform: translate3d(0,6px,0) scale(0.75); */
+}
+.sidebar-tabs .nav a:focus {
+    background: none;
+    border-bottom: solid thin #03a9f3;
+    color: #00B9F5;
+    transition: all ease 0.5s;
+    font-weight: bold;
+
+}
+.sidebar-tabs .nav a {
+    margin: 10px 0;
+}
+.read-data-here {
+    font-weight: bold;
+}
+.custom-field-here {
+    padding-right: 0!important;
+}
+.custom-read-data {
+    padding: 0!important;
+    padding-right: 15px!important;
+}
+.custom-tab-content-here {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#welcomeDiv {
+    display: none;
+}
+.custom-show-btn {
+    padding: 10% 20%;
+    background:#fff;
+    border: solid thin #e1e1e1;
+    color: #828282;
+}
+
+.custom-show-btn:hover {
+    border-color: #03a9f3;
+    transition: all ease 0.5s;
+    color: #03a9f3;
+    background: #fff;
+}
+.custom-show-btn:focus {
+    border-color: #03a9f3;
+    transition: all ease 0.5s;
+    color: #03a9f3;
+    background: #fff;
+}
+.custom-show-btn:active {
+    border-color: #03a9f3;
+    transition: all ease 0.5s;
+    color: #03a9f3;
+    background: #fff;
+}custom-show-btn:hover .fa-plus {
+    border-color:#03a9f3;
+    transition: all ease 0.5s;
+}
+.custom-field-here .fa-plus {
+    /* font-size: 20px; */
+    border: solid thin #e1e1e1;
+    border-radius: 50%;
+    padding: 25px 27px;
+}
+.custom-form-address {
+    margin-top: 5%;
+    padding: 15px;
+}
+.custom-form-address2 p {
+    font-weight: bold;
+}
+/**************end vertical css******************/

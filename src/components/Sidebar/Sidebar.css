@@ -1,0 +1,13 @@
+.custom-scroll-sidebar-bg {
+    background: #212529!important;
+}
+.left-sidebar {
+    padding-top: 65px!important;
+}
+.scroll-sidebar {
+    height: calc(100% - 0%)!important;
+    position: relative;
+}
+.sidebar-nav ul li .fa {
+    color: #fff;
+}
